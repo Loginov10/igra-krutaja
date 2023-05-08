@@ -1,0 +1,24 @@
+Play time: 13.015775442123413 seconds
+Score: 1
+
+Play time: 13.002944707870483 seconds
+Score: 3
+
+Play time: 13.004597187042236 seconds
+Score: -6
+
+Play time: 20.014428853988647 seconds
+Score: -5
+
+Play time: 20.016116857528687 seconds
+Score: 55
+
+Play time: 20.010265350341797 seconds
+Score: 5
+
+Play time: 20.01469135284424 seconds
+Score: 49
+
+Play time: 20.012268781661987 seconds
+Score: 55
+
